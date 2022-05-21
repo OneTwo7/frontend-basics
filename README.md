@@ -4,9 +4,9 @@ Introduction to frontend development experience.
 
 ## Technologies
 
-- [HTML](html-basics.md)
-- [CSS](css-basics.md)
-- [JavaScript](javascript-basics.md)
+- [HTML](articles/html-basics.md)
+- [CSS](articles/css-basics.md)
+- [JavaScript](articles/javascript-basics.md)
 
 ## Useful resources
 
